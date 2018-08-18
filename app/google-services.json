@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "793682870848",
+    "firebase_url": "https://ealaan-4f79f.firebaseio.com",
+    "project_id": "ealaan-4f79f",
+    "storage_bucket": "ealaan-4f79f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793682870848:android:a21031e8126fbeb8",
+        "android_client_info": {
+          "package_name": "saifamerealaandeveloper2030.com.EalaanTradingMarketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793682870848-bg9omb6a136471rv9qi018jkkaoshu96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saifamerealaandeveloper2030.com.EalaanTradingMarketing",
+            "certificate_hash": "b2209845d072fac4dd9a1d32cbc63dc06f4d23ef"
+          }
+        },
+        {
+          "client_id": "793682870848-evo5p4vcvcjqgssa76hn9bsnm079l9er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf1krCQ-tCGe7V5yR4L9RDgIopQMxhnhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793682870848-evo5p4vcvcjqgssa76hn9bsnm079l9er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

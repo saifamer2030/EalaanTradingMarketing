@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Travel</string>
+    <string name="Done">successfully registered</string>
+    <string name="tag_send">send</string>
+    <string name="tag_verify">verify</string>
+
+
+
+    <string name="intro"> Welcome To Our New App</string>
+    <string name="newUser1">Not a Member yet?</string>
+    <string name="newUser2">Sign Up here.</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="passowrd">Password</string>
+    <string name="oldUser1">Already have account ?</string>
+    <string name="oldUser2">Login here .</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_product">Add Product</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+
+
+
+
+    <string name="full_name">full name</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="empty">email required and password required</string>
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+    <string name="input_error_pass">The Password Is Not The Same</string>
+
+</resources>
